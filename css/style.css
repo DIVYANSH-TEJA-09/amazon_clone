@@ -1,0 +1,14 @@
+/* moved from src/css/style.css */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Custom scrollbar for demo */
+::-webkit-scrollbar {
+  width: 8px;
+  background: #f3f3f3;
+}
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
